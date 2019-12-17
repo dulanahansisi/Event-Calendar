@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="EventCalendarDS" targetNamespace="http://tempuri.org/EventCalendarDS.xsd" xmlns:mstns="http://tempuri.org/EventCalendarDS.xsd" xmlns="http://tempuri.org/EventCalendarDS.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="EventCalendarDS" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="EventCalendarDS" msprop:Generator_UserDSName="EventCalendarDS">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="Calendar" msprop:Generator_TableClassName="CalendarDataTable" msprop:Generator_TableVarName="tableCalendar" msprop:Generator_RowChangedName="CalendarRowChanged" msprop:Generator_TablePropName="Calendar" msprop:Generator_RowDeletingName="CalendarRowDeleting" msprop:Generator_RowChangingName="CalendarRowChanging" msprop:Generator_RowEvHandlerName="CalendarRowChangeEventHandler" msprop:Generator_RowDeletedName="CalendarRowDeleted" msprop:Generator_RowClassName="CalendarRow" msprop:Generator_UserTableName="Calendar" msprop:Generator_RowEvArgName="CalendarRowChangeEvent">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="EventName" msprop:nullValue="_throw" msprop:Generator_ColumnPropNameInRow="EventName" msprop:Generator_ColumnVarNameInTable="columnEventName" msprop:Generator_ColumnPropNameInTable="EventNameColumn" msprop:Generator_UserColumnName="EventName" type="xs:string" minOccurs="0" />
+              <xs:element name="Date" msprop:Generator_ColumnVarNameInTable="columnDate" msprop:Generator_ColumnPropNameInRow="Date" msprop:Generator_ColumnPropNameInTable="DateColumn" msprop:Generator_UserColumnName="Date" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="StartTime" msprop:Generator_ColumnVarNameInTable="columnStartTime" msprop:Generator_ColumnPropNameInRow="StartTime" msprop:Generator_ColumnPropNameInTable="StartTimeColumn" msprop:Generator_UserColumnName="StartTime" type="xs:short" minOccurs="0" />
+              <xs:element name="EndTime" msprop:Generator_ColumnVarNameInTable="columnEndTime" msprop:Generator_ColumnPropNameInRow="EndTime" msprop:Generator_ColumnPropNameInTable="EndTimeColumn" msprop:Generator_UserColumnName="EndTime" type="xs:short" minOccurs="0" />
+              <xs:element name="Contact" msprop:nullValue="_null" msprop:Generator_ColumnPropNameInRow="Contact" msprop:Generator_ColumnVarNameInTable="columnContact" msprop:Generator_ColumnPropNameInTable="ContactColumn" msprop:Generator_UserColumnName="Contact" type="xs:string" minOccurs="0" />
+              <xs:element name="LocationData" msprop:nullValue="_null" msprop:Generator_ColumnPropNameInRow="LocationData" msprop:Generator_ColumnVarNameInTable="columnLocationData" msprop:Generator_ColumnPropNameInTable="LocationDataColumn" msprop:Generator_UserColumnName="LocationData" type="xs:string" minOccurs="0" />
+              <xs:element name="Recurrency" msprop:Generator_ColumnVarNameInTable="columnRecurrency" msprop:Generator_ColumnPropNameInRow="Recurrency" msprop:Generator_ColumnPropNameInTable="RecurrencyColumn" msprop:Generator_UserColumnName="Recurrency" type="xs:string" minOccurs="0" />
+              <xs:element name="EventType" msprop:Generator_ColumnVarNameInTable="columnEventType" msprop:Generator_ColumnPropNameInRow="EventType" msprop:Generator_ColumnPropNameInTable="EventTypeColumn" msprop:Generator_UserColumnName="EventType" type="xs:string" minOccurs="0" />
+              <xs:element name="EventID" msdata:AutoIncrement="true" msdata:AutoIncrementSeed="1" msprop:Generator_ColumnVarNameInTable="columnEventID" msprop:Generator_ColumnPropNameInRow="EventID" msprop:Generator_ColumnPropNameInTable="EventIDColumn" msprop:Generator_UserColumnName="EventID" type="xs:short" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="CalendarKey1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:Calendar" />
+      <xs:field xpath="mstns:EventID" />
+    </xs:unique>
+  </xs:element>
+</xs:schema>

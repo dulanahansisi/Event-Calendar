@@ -1,0 +1,25 @@
+﻿Today is: 12/11/2019 1:32:41 PM
+
+Events from 2019\12\11 to 2019\12\11 are as below...
+
+Event Name: Test6.
+Event Date: 12/11/2019 6:38:44 PM.
+Event starts at: 1500h.
+Event ends at: 1700h.
+Event Contact detail: David Hans.
+Event is in: Colombo5.
+Is event recurring ?: True.
+Event is: Appointment.
+
+
+Event Name: Test7.
+Event Date: 12/11/2019 6:38:44 PM.
+Event starts at: 1400h.
+Event ends at: 2300h.
+Event Contact detail: James.
+Event is in: .
+Is event recurring ?: False.
+Event is: Event.
+
+
+Total events between start time and end time are: 2

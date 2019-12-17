@@ -1,0 +1,109 @@
+﻿Today is: 12/11/2019 5:17:24 AM
+
+Your upcoming Events are: 
+
+Event Name: Test5.
+Event Date: 12/21/2019 6:38:44 PM.
+Event starts at: 1230h.
+Event ends at: 1300h.
+Event Contact detail: Robin.
+Event is in: Colombo6.
+Is event recurring ?: False.
+Event is: Event.
+
+
+Event Name: Test6.
+Event Date: 12/11/2019 6:38:44 PM.
+Event starts at: 1500h.
+Event ends at: 1700h.
+Event Contact detail: David Hans.
+Event is in: Colombo5.
+Is event recurring ?: True.
+Event is: Appointment.
+
+
+Event Name: Test7.
+Event Date: 12/11/2019 6:38:44 PM.
+Event starts at: 1400h.
+Event ends at: 2300h.
+Event Contact detail: James.
+Event is in: .
+Is event recurring ?: False.
+Event is: Event.
+
+
+Event Name: Test8.
+Event Date: 12/18/2019 6:38:44 PM.
+Event starts at: 1900h.
+Event ends at: 2300h.
+Event Contact detail: Mitt.
+Event is in: Colombo7.
+Is event recurring ?: True.
+Event is: Appointment.
+
+
+Event Name: Test9.
+Event Date: 12/17/2019 6:38:44 PM.
+Event starts at: 2300h.
+Event ends at: 2330h.
+Event Contact detail: Dulana.
+Event is in: .
+Is event recurring ?: True.
+Event is: Event.
+
+
+Event Name: Test10.
+Event Date: 12/25/2019 6:38:44 PM.
+Event starts at: 1000h.
+Event ends at: 1100h.
+Event Contact detail: .
+Event is in: Matara.
+Is event recurring ?: True.
+Event is: Event.
+
+
+Event Name: Test12.
+Event Date: 12/30/2019 6:38:44 PM.
+Event starts at: 0530h.
+Event ends at: 0630h.
+Event Contact detail: Seth.
+Event is in: Colombo7.
+Is event recurring ?: False.
+Event is: Appointment.
+
+
+Event Name: Test13.
+Event Date: 12/27/2019 6:38:44 PM.
+Event starts at: 0650h.
+Event ends at: 0710h.
+Event Contact detail: .
+Event is in: .
+Is event recurring ?: True.
+Event is: Event.
+
+
+Event Name: Test14.
+Event Date: 12/27/2019 6:38:44 PM.
+Event starts at: 1100h.
+Event ends at: 1300h.
+Event Contact detail: .
+Event is in: .
+Is event recurring ?: False.
+Event is: Event.
+
+
+Event Name: Test15.
+Event Date: 1/3/2020 6:38:44 PM.
+Event starts at: 1045h.
+Event ends at: 1200h.
+Event Contact detail: sandy.
+Event is in: lab5.
+Is event recurring ?: False.
+Event is: Event.
+
+
+You have participated in: 5 events.
+You have spent: 12.45 hours on events.
+You have spent: 2.49 hours per event in average.
+You have to allocate average of 24.9 hours for the events in future approximately (depending on past event average).
+You have to allocate 21.5833333333333 hours for the events in future (depending on upcoming event durations).

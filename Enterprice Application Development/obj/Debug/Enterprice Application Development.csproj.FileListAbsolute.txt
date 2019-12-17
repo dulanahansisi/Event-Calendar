@@ -1,0 +1,16 @@
+C:\Users\Dulana Hansisi\source\repos\Enterprice Application Development\Enterprice Application Development\bin\Debug\Enterprice Application Development.exe.config
+C:\Users\Dulana Hansisi\source\repos\Enterprice Application Development\Enterprice Application Development\bin\Debug\Enterprice Application Development.exe
+C:\Users\Dulana Hansisi\source\repos\Enterprice Application Development\Enterprice Application Development\bin\Debug\Enterprice Application Development.pdb
+C:\Users\Dulana Hansisi\source\repos\Enterprice Application Development\Enterprice Application Development\obj\Debug\Enterprice_Application_Development.AddEventUCRow.resources
+C:\Users\Dulana Hansisi\source\repos\Enterprice Application Development\Enterprice Application Development\obj\Debug\Enterprice_Application_Development.AddEventRowCount.resources
+C:\Users\Dulana Hansisi\source\repos\Enterprice Application Development\Enterprice Application Development\obj\Debug\Enterprice_Application_Development.Properties.Resources.resources
+C:\Users\Dulana Hansisi\source\repos\Enterprice Application Development\Enterprice Application Development\obj\Debug\Enterprice_Application_Development.SelectCellUC.resources
+C:\Users\Dulana Hansisi\source\repos\Enterprice Application Development\Enterprice Application Development\obj\Debug\Enterprice_Application_Development.View.InitialView.resources
+C:\Users\Dulana Hansisi\source\repos\Enterprice Application Development\Enterprice Application Development\obj\Debug\Enterprice_Application_Development.View.Login.resources
+C:\Users\Dulana Hansisi\source\repos\Enterprice Application Development\Enterprice Application Development\obj\Debug\Enterprice Application Development.csproj.GenerateResource.cache
+C:\Users\Dulana Hansisi\source\repos\Enterprice Application Development\Enterprice Application Development\obj\Debug\Enterprice Application Development.exe
+C:\Users\Dulana Hansisi\source\repos\Enterprice Application Development\Enterprice Application Development\obj\Debug\Enterprice Application Development.pdb
+C:\Users\Dulana Hansisi\source\repos\Enterprice Application Development\Enterprice Application Development\bin\Debug\sbdLogging.mdf
+C:\Users\Dulana Hansisi\source\repos\Enterprice Application Development\Enterprice Application Development\bin\Debug\sbdLogging_log.ldf
+C:\Users\Dulana Hansisi\source\repos\Enterprice Application Development\Enterprice Application Development\obj\Debug\Enterprice_Application_Development.EventFilterUC.resources
+C:\Users\Dulana Hansisi\source\repos\Enterprice Application Development\Enterprice Application Development\obj\Debug\Enterprice Application Development.csprojAssemblyReference.cache
